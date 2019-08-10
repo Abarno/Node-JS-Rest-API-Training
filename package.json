@@ -1,0 +1,19 @@
+{
+  "name": "restapi_tutorial_nodejs",
+  "version": "1.0.0",
+  "description": "nodejs restful api training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api"
+  ],
+  "author": "Abarno Raha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
